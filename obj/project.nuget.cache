@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MAccFKUw6eRJ3ob6gPcac9RHlBhFKB4RdRTd85bhRopea98QuxOlqJTu/3FuDVylbePHhtHYaSeMml06lDbWDw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\tinymce\\5.6.0\\tinymce.5.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
